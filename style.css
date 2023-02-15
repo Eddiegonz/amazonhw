@@ -1,0 +1,71 @@
+#profile{
+    text-align: center;
+    float: center;
+    padding-top: 40px;
+}
+#core{
+    background-color: rgb(252, 250, 250);
+    text-align: left;
+    width: 500px;
+    height:400px;
+    float: center;
+    margin:auto;
+    border: 25px;
+    border-color:aqua
+}
+#side-articles{
+    float:center;
+    text-align:center;
+    width: 2%
+}
+
+#main{
+    align:center;
+    text-align:center;
+    width: 480px;
+    border: 20px;
+    border-color: rgb(206, 22, 22);
+    background-color: rgb(255, 174, 0);
+    
+}
+#main-articles{
+    float:center;
+    text-align: center;
+    border: 20px;
+    border-color: rgb(184, 18, 18)
+}
+
+#belowt{
+    float: center;
+    text-align: center;
+}
+#belowb{
+    float: center;
+    text-align:center;
+}
+nav li{
+    display: inline;
+    float: center;        
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 0px;
+}
+
+footer{
+    float: center;
+    text-align: center;
+    margin-top: 10px;
+    height: 5vh;
+}
+footer hr{
+    margin-top: 0px;
+    height: 12px;
+}
+#hic{
+    color: rgb(78, 66, 44);
+    border: 5px;
+    border-color: rgb(209, 23, 209)
+}
+#orange{
+    color: orange;
+}
